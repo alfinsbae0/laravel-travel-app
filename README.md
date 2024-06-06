@@ -11,6 +11,7 @@
 
 - git clone https://github.com/alfinsbae0/laravel-travel-app.git
 - cd laravel-travel-app
+- rename manually .env.example to .env
 - composer install
 - npm install
 - php artisan key:generate
